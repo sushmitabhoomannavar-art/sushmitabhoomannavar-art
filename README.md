@@ -10,7 +10,7 @@ I am a DevOps Engineer passionate about Cloud, Docker, Kubernetes, AWS, Jenkins,
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws,maven,bash,java,spring,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws,maven,,java,spring,mysql,vscode" />
 </p>
 
 # Currently Learning
