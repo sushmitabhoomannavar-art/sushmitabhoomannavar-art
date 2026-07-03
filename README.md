@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi , I'm Sushmita
 
-<!--
-**sushmitabhoomannavar-art/sushmitabhoomannavar-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#DevOps Engineer
 
-Here are some ideas to get you started:
+I am a DevOps Engineer passionate about Cloud, Docker, Kubernetes, AWS, Jenkins, Git, Linux and CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+- Linux
+- Git & GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- AWS
+- Maven
+- Shell Scripting
+
+# Currently Learning
+
+- Monitoring
+- Ansible
+
+# Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/sushmita-bhoomannavar-9209792b7
+- Email: sushmitabhoomannavar@gmail.com
