@@ -7,15 +7,16 @@ I am a DevOps Engineer passionate about Cloud, Docker, Kubernetes, AWS, Jenkins,
 
 # Skills
 
-- Linux
-- Git & GitHub
-- Docker
-- Kubernetes
-- Jenkins
-- AWS
-- Maven
-- Shell Scripting
+## 🛠️ Skills
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws,maven,bash,java,spring,mysql,vscode" />
+</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushmitabhoomannavar-art&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushmitabhoomannavar-art&layout=compact&theme=tokyonight)
 # Currently Learning
 
 - Monitoring
