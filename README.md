@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3189F7&width=435&lines=%23+Hi+%F0%9F%91%8B+I'm+Sushmita+;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7CJenkins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+Hi+good+morning+I'm+Sushmita+%23+DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 # Hi , I'm Sushmita
 
 #DevOps Engineer
